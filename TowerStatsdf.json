@@ -1469,6 +1469,44 @@
             }
         ]
     },
+        "Tarnished Spring Bonnie": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://18777411515",
+        "Rarity": "Secret",
+        "PlacePrice": 300,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 150,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 800,
+                "Range": 22,
+                "Damage": 175,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2000,
+                "Range": 25,
+                "Damage": 200,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 5000,
+                "Range": 30,
+                "Damage": 250,
+                "Cooldown": 0.75
+            }
+        ]
+    },
     "Endo 03": {
         "Type": "Single",
         "Image": "rbxassetid://18363471703",
