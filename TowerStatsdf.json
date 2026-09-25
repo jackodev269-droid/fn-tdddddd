@@ -2160,7 +2160,7 @@
         "Type": "Poison",
         "Image": "rbxassetid://18363391561",
         "Rarity": "Secret",
-        "Description": "Attacks poison enemies by 75% of her damage for 3 seconds"
+        "Description": "Attacks poison enemies by 75% of damage for 3 seconds"
         "PlacePrice": 500,
         "Max": 3,
         "Passive": {
@@ -2666,5 +2666,53 @@
                 "Cooldown": 3
             }
         ]
-    }
+    },
+        "Reactor Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://18672617524",
+        "Rarity": "Nightmare",
+        "Description": "Attacks poison enemies by 25% of damage for 2 seconds",
+        "PlacePrice": 2500,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 150,
+                "Cooldown": 1
+                "Poison": 37.5,
+                "PoisonLength": 2
+            },
+            {
+                "Price": 3200,
+                "Range": 18,
+                "Damage": 225,
+                "Cooldown": 0.75
+                "Poison": 56.25,
+                "PoisonLength": 2
+            },
+            {
+                "Price": 6000,
+                "Range": 21,
+                "Damage": 350,
+                "Cooldown": 0.5
+                "Poison": 87.5,
+                "PoisonLength": 2
+            },
+            {
+                "Price": 12000,
+                "Range": 25,
+                "Damage": 500,
+                "Cooldown": 0.25
+                "Poison": 125,
+                "PoisonLength": 2
+            }
+        ]
+    },
 }
