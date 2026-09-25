@@ -1062,10 +1062,7 @@
         "Rarity": "Rare",
         "PlacePrice": 800,
         "Max": 3,
-        "Passive": {
-            "Name": "Slow",
-            "Description": "Slows enemies"
-        },
+        "Description": "Attacks slow enemies by 70% for 1 second"
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1267,10 +1264,7 @@
         "Rarity": "Nightmare",
         "PlacePrice": 3000,
         "Max": 2,
-        "Passive": {
-            "Name": "Sludge",
-            "Description": "Attacks slow enemies by 55% for 1 second"
-        },
+        "Description": "Attacks slow enemies by 55% for 1 second"
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1877,10 +1871,7 @@
         "Rarity": "Epic",
         "PlacePrice": 2000,
         "Max": 2,
-        "Passive": {
-            "Name": "Slow",
-            "Description": "Slows enemies by 50%"
-        },
+        "Description": "Attacks slow enemies by 50% for 1 second"
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2169,6 +2160,7 @@
         "Type": "Poison",
         "Image": "rbxassetid://18363391561",
         "Rarity": "Secret",
+        "Description": "Attacks poison enemies by 75% of her damage for 3 seconds"
         "PlacePrice": 500,
         "Max": 3,
         "Passive": {
@@ -2220,6 +2212,7 @@
         "Type": "Continuous Slow",
         "Image": "rbxassetid://18578478327",
         "Rarity": "Nightmare",
+        "Description": "Attacks slow enemies by 40% for 1 second",
         "PlacePrice": 45000,
         "Max": 1,
         "Passive": {
