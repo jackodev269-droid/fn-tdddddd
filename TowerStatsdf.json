@@ -1062,7 +1062,7 @@
         "Rarity": "Rare",
         "PlacePrice": 800,
         "Max": 3,
-        "Description": "Attacks slow enemies by 70% for 1 second"
+        "Description": "Attacks slow enemies by 70% for 1 second",
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1264,7 +1264,7 @@
         "Rarity": "Nightmare",
         "PlacePrice": 3000,
         "Max": 2,
-        "Description": "Attacks slow enemies by 55% for 1 second"
+        "Description": "Attacks slow enemies by 55% for 1 second",
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1871,7 +1871,7 @@
         "Rarity": "Epic",
         "PlacePrice": 2000,
         "Max": 2,
-        "Description": "Attacks slow enemies by 50% for 1 second"
+        "Description": "Attacks slow enemies by 50% for 1 second",
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2160,7 +2160,7 @@
         "Type": "Poison",
         "Image": "rbxassetid://18363391561",
         "Rarity": "Secret",
-        "Description": "Attacks poison enemies by 75% of damage for 3 seconds"
+        "Description": "Attacks poison enemies by 75% of damage for 3 seconds",
         "PlacePrice": 500,
         "Max": 3,
         "Passive": {
