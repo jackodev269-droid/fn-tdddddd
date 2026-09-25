@@ -2208,6 +2208,54 @@
             }
         ]
     },
+        "Reactor Freddy": {
+        "Type": "Poison",
+        "Image": "rbxassetid://126942424529910",
+        "Rarity": "Nightmare",
+        "Description": "Attacks poison enemies by 25% of damage for 2 seconds",
+        "PlacePrice": 2500,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 150,
+                "Cooldown": 1,
+                "Poison": 37.5,
+                "PoisonLength": 2
+            },
+            {
+                "Price": 4500,
+                "Range": 15,
+                "Damage": 200,
+                "Cooldown": 0.75,
+                "Poison": 50,
+                "PoisonLength": 2
+            },
+            {
+                "Price": 6000,
+                "Range": 21,
+                "Damage": 325,
+                "Cooldown": 0.5,
+                "Poison": 81.25,
+                "PoisonLength": 2
+            },
+            {
+                "Price": 10000,
+                "Range": 25,
+                "Damage": 500,
+                "Cooldown": 0.25,
+                "Poison": 125,
+                "PoisonLength": 2
+            }
+        ]
+    },
     "Abyssal Foxy": {
         "Type": "Continuous Slow",
         "Image": "rbxassetid://18578478327",
