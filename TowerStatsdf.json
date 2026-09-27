@@ -880,7 +880,7 @@
         "Type": "AOE",
         "Image": "rbxassetid://17689695988",
         "Rarity": "Secret",
-        "Description": "Buff all units damage in range by 10%",
+        "Description": "Increase the damage of all units in range by 10%.",
         "PlacePrice": 2000,
         "Max": 2,
         "hitboxOffset": {
