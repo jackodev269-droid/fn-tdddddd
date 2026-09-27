@@ -837,8 +837,8 @@
         "Image": "rbxassetid://17689695988",
         "Rarity": "Secret",
         "PlacePrice": 2000,
-        "Max": 2,
         "Description": "Damage buff to all units in range by 10%",
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
