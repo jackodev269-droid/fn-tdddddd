@@ -77,44 +77,6 @@
             }
         ]
     },
-        "Party Time Chica": {
-        "Type": "Dual Splash",
-        "Image": "rbxassetid://106318800289412",
-        "Rarity": "Epic",
-        "PlacePrice": 300,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 12,
-                "Damage": 50,
-                "Cooldown": 1.5
-            },
-            {
-                "Price": 800,
-                "Range": 13,
-                "Damage": 150,
-                "Cooldown": 1.5
-            },
-            {
-                "Price": 2000,
-                "Range": 14,
-                "Damage": 400,
-                "Cooldown": 1.5
-            },
-            {
-                "Price": 3200,
-                "Range": 18,
-                "Damage": 800,
-                "Cooldown": 1.5
-            },
-        ]
-    },
     "Foxy": {
         "Type": "Melee",
         "Image": "rbxassetid://16620218689",
