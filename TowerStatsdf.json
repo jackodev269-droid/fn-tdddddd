@@ -77,6 +77,50 @@
             }
         ]
     },
+        "Party Time Chica": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://16620303027",
+        "Rarity": "Uncommon",
+        "PlacePrice": 500,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 50,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 800,
+                "Range": 12,
+                "Damage": 165,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 1200,
+                "Range": 14,
+                "Damage": 240,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 2750,
+                "Range": 16,
+                "Damage": 450,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 3900,
+                "Range": 18,
+                "Damage": 800,
+                "Cooldown": 1.5
+            }
+        ]
+    },
     "Foxy": {
         "Type": "Melee",
         "Image": "rbxassetid://16620218689",
