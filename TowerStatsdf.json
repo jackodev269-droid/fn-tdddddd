@@ -2277,6 +2277,54 @@
             }
         ]
     },
+        "Blighted Endo Bonnie": {
+        "Type": "Splash",
+        "Image": "rbxassetid://87258873019107",
+        "Rarity": "Nightmare",
+        "Description": "Inflict Bleed on enemies for 1 second, dealing 10% damage.",
+        "PlacePrice": 8000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 14,
+                "Damage": 2000,
+                "Cooldown": 2,
+                "Bleed": 200,
+                "BleedLength": 1
+            },
+            {
+                "Price": 5000,
+                "Range": 16,
+                "Damage": 2500,
+                "Cooldown": 1.75,
+                "Poison": 250,
+                "PoisonLength": 1
+            },
+            {
+                "Price": 9000,
+                "Range": 18,
+                "Damage": 3200,
+                "Cooldown": 1.5,
+                "Poison": 320,
+                "PoisonLength": 1
+            },
+            {
+                "Price": 15000,
+                "Range": 22,
+                "Damage": 5000,
+                "Cooldown": 1.5,
+                "Poison": 500,
+                "PoisonLength": 1
+            }
+        ]
+    },
     "Abyssal Foxy": {
         "Type": "Continuous Slow",
         "Image": "rbxassetid://18578478327",
