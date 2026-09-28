@@ -707,10 +707,6 @@
         "Rarity": "Nightmare",
         "PlacePrice": 4000,
         "Max": 4,
-        "Passive": {
-            "Name": "Vengeful",
-            "Description": ""
-        },
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -922,10 +918,6 @@
         "PlacePrice": 500,
         "Offset": 0.55,
         "Max": 3,
-        "Passive": {
-            "Name": "Pirate's Curse",
-            "Description": ""
-        },
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1015,10 +1007,6 @@
         "Rarity": "Nightmare",
         "PlacePrice": 71000,
         "Max": 2,
-        "Passive": {
-            "Name": "Blight",
-            "Description": ""
-        },
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1824,10 +1812,6 @@
         "Rarity": "Nightmare",
         "PlacePrice": 61000,
         "Max": 2,
-        "Passive": {
-            "Name": "Phantasms Wrath",
-            "Description": ""
-        },
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2079,10 +2063,6 @@
         "PlacePrice": 4000,
         "Offset": 0.35,
         "Max": 3,
-        "Passive": {
-            "Name": "Bleed",
-            "Description": ""
-        },
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2208,10 +2188,6 @@
         "Description": "Attacks poison enemies by 75% of damage for 3 seconds",
         "PlacePrice": 500,
         "Max": 3,
-        "Passive": {
-            "Name": "Lethal Potions",
-            "Description": ""
-        },
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2308,10 +2284,6 @@
         "Description": "Attacks slow enemies by 40% for 1 second",
         "PlacePrice": 45000,
         "Max": 1,
-        "Passive": {
-            "Name": "Slow",
-            "Description": ""
-        },
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
