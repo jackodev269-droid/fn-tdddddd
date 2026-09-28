@@ -2072,6 +2072,53 @@
             }
         ]
     },
+        "Blighted Endo Bonnie": {
+        "Type": "Splash",
+        "Image": "rbxassetid://87258873019107",
+        "Rarity": "Nightmare",
+        "Description": "nflict Bleed on enemies for 1 second, dealing 10% damage",
+        "PlacePrice": 8000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 14,
+                "Damage": 2000,
+                "Cooldown": 2
+                "Bleed": 200,
+                "BleedLength": 1
+            },
+            {
+                "Price": 13000,
+                "Range": 18,
+                "Damage": 2400,
+                "Cooldown": 1.5
+                "Bleed": 240,
+                "BleedLength": 1
+            },
+            {
+                "Price": 15000,
+                "Range": 20,
+                "Damage": 4220,
+                "Cooldown": 1.5
+                "Bleed": 422,
+                "BleedLength": 1
+            },
+            {
+                "Price": 25000,
+                "Range": 22,
+                "Damage": 5000,
+                "Cooldown": 1
+                "Bleed": 500,
+                "BleedLength": 1
+            }
+        ]
+    },
     "Sentinel Bonnie": {
         "Type": "Continuous Pierce",
         "Image": "rbxassetid://18363569957",
