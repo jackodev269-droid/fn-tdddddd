@@ -507,6 +507,45 @@
             }
         ]
     },
+    "Valkyrie Prime": {
+        "Type": "Continuous Splash",
+        "Image": "rbxassetid://16781017510",
+        "Rarity": "Nightmare",
+        "PlacePrice": 8000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 16,
+                "Damage": 150,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 5700,
+                "Range": 20,
+                "Damage": 250,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 9000,
+                "Range": 25,
+                "Damage": 300,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 16000,
+                "Range": 32,
+                "Damage": 475,
+                "Cooldown": 0.1
+            }
+        ]
+    },
     "Mangle": {
         "Type": "Explosion",
         "Image": "rbxassetid://16781119726",
