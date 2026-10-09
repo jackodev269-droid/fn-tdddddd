@@ -666,6 +666,7 @@
         "Type": "Pierce",
         "Image": "rbxassetid://17802016570",
         "Rarity": "Secret",
+        "Description": "16% chance to trigger a second hit dealing 2x damage",
         "PlacePrice": 10000,
         "Max": 2,
         "hitboxOffset": {
