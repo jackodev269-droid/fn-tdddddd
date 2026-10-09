@@ -912,6 +912,45 @@
             }
         ]
     },
+        "Bomber Boy": {
+        "Type": "Nuke",
+        "Image": "rbxassetid://85451116880408",
+        "Rarity": "Nightmare",
+        "Description": "25% chance to deal x1.25 damage with bigger area",
+        "PlacePrice": 15000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 14,
+                "Damage": 5000,
+                "Cooldown": 6
+            },
+            {
+                "Price": 6800,
+                "Range": 16,
+                "Damage": 8000,
+                "Cooldown": 5.5
+            },
+            {
+                "Price": 12000,
+                "Range": 18,
+                "Damage": 14000,
+                "Cooldown": 5
+            },
+            {
+                "Price": 20000,
+                "Range": 20,
+                "Damage": 20000,
+                "Cooldown": 4
+            }
+        ]
+    },
     "Pirate Withered Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://17851205149",
